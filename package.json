@@ -19,5 +19,13 @@
     "eslint": "^8.34.0",
     "eslint-config-airbnb-base": "^15.0.0",
     "eslint-plugin-import": "^2.27.5"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RifqiMuafa20/proyek-backend1.git"
+  },
+  "bugs": {
+    "url": "https://github.com/RifqiMuafa20/proyek-backend1/issues"
+  },
+  "homepage": "https://github.com/RifqiMuafa20/proyek-backend1#readme"
 }
